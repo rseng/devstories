@@ -6,10 +6,11 @@ rse: "Damian Rouson"
 phenotype: 
 excerpt: "Where do object oriented design, Fortran, and innovation in designing your role collide? Listen to the episode this week to find out!"
 date: 2020-10-08 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-damien-rouson-episode-37.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-damien-rouson-episode-37.mp3
 length: 13248036
 duration: "00:25:40"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Damian Rouson at the Sorcery Institute
     url: http://www.sourceryinstitute.org/damian-rouson.html

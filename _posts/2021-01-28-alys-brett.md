@@ -5,10 +5,11 @@ author: "@pweschmidt"
 rse: "Alys Brett"
 excerpt: "As former president of the Society of Research Software Engineering Alys Brett has a unique insight into the RSE movement and where it's heading."
 date: 2021-01-28 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2021/rse-stories-alys-brett-episode-50.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2021/rse-stories-alys-brett-episode-50.mp3
 length: 14089530
 duration: "00:29:22"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Alys Brett's github
     url: https://github.com/alysbrett 

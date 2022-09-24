@@ -6,10 +6,11 @@ rse: "Alex Koufos"
 phenotype: alex-koufos.png
 excerpt: "A journey of discovering a desire to be a research software engineer, finding a niche, and then fighting to keep it."
 date: 2020-11-19 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-alex-koufos-episode-43.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-alex-koufos-episode-43.mp3
 length: 15973990
 duration: "00:27:32"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Alex on GitHub
     url: https://github.com/exoticDFT

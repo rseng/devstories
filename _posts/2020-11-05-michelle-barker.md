@@ -6,10 +6,11 @@ rse: "Michelle Barker"
 phenotype: 
 excerpt: "As director of the research software alliance Michelle takes us through the necessary changes we need to cope with the scientific challenges of the future. This includes digital skill sets as well as providing for reliable and safe handling of digital data and assets. In all these endeavours, open science is critical, says Michelle."
 date: 2020-11-05 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-michelle-barker-episode-41.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-michelle-barker-episode-41.mp3
 length: 13944917
 duration: "00:29:02"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Research Software Alliance
     url: https://www.researchsoft.org/

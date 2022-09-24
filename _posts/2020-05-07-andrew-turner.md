@@ -7,10 +7,11 @@ phenotype: andrew-turner.png
 excerpt: "Sometimes becoming an RSE is greater than the job description. It's about finding a place where you belong."
 date: 2020-05-07 8:30:00
 image: andrew-turner.png
-media: rse-stories-andrew-turner-episode-17.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-andrew-turner-episode-17.mp3
 length: 14131293
 duration: "00:23:59"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Andrew Turner at EPCC
    url: https://www.epcc.ed.ac.uk/about/staff/dr-andrew-turner

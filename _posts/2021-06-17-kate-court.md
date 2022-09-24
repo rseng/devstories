@@ -5,10 +5,11 @@ author: "@pweschmidt"
 rse: "Kate Court"
 excerpt: "Kate Court made the exciting journey from Arts and Humanities to computer science. On the way she enthusiastically helps communities build confidence in digital technologies."
 date: 2021-06-17 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2021/rse-stories-kate-court-episode-62.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2021/rse-stories-kate-court-episode-62.mp3
 length: 22445580
 duration: "00:23:23"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Kate Court's Medium page
     url: https://medium.com/@kate.court

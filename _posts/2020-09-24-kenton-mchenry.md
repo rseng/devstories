@@ -6,10 +6,11 @@ rse: "Kenton McHenry"
 phenotype: 
 excerpt: "If you need to publish or perish as an academic researcher, then as a research software engineer you need to establish or perish."
 date: 2020-09-24 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-kenton-mchenry-episode-35.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-kenton-mchenry-episode-35.mp3
 length: 12781837
 duration: "00:23:07"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Kenton's Biography
     url: http://www.ncsa.illinois.edu/assets/php/directory/contact.php?contact=kmchenry

@@ -3,10 +3,13 @@ layout: home
 permalink: /
 ---
 
-## Research Software Engineer Stories
+## Why Did You Build It?
 
-Welcome to RSE Stories! Here we share stories from research software engineers to better understand
-the many <a href="https://us-rse.org/rse-phenotype/about/" target="_blank">phenotypes</a> and facets
-that can define an RSE. As initiatives to empower RSEs take off in both the <a href="https://us-rse.org" target="_blank">United States</a> and 
-the <a href="https://rse.ac.uk/" target="_blank">UK</a>, whether you
-are a scientist, a programmer, or something else, your story is interesting and unique, and we want to hear about it!
+As developers, we get excited to think about challenging problems. When you ask us what
+we are working on, our eyes light up like children in a candy store. So why is it that
+so many of our software origin stories are not told? This podcast
+aims to look "Behind the Scenes of Tech's Passion Projects." We want to know
+What you built, Why you built it, and for who it was for. We are an inclusive
+and welcoming community - whatever kind of institution or country you hail
+from, if you are passionate about software and technology you are welcome
+in this community.

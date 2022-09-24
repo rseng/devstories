@@ -1,19 +1,25 @@
-# Research Software Engineer Stories
+# Developer Stories Podcast
 
-What is a research software engineer? How can we compare
-apples and oranges, when one person might be heavily involved in open source
-software engineering, and another actively publishing, and a third with managerial duties,
-and a fourth doing administration for HPC? This small podcast series attempts to
-identify just that.
+This podcast asks the question:
 
-## Who can be on, or host, RSE Stories?
+> Why did you build it?
 
-RSE Stories is not geographically limited, meaning that interviewees and hosts
-come from all across the globe. If you'd like to request more information to be
-interviewed, or to host an episode, please see the links below.
+And looks "Behind the Scenes of Tech's Passion Projects!" This means we want to know
+what you are building, why you are building it, and who it is for! By way of sharing
+our software and stories, not only can we learn from one another, but we can
+also create greater awareness for all the projects underway, and better collaborate
+on technologies we are excited about.
 
- - [View the Site](https://usrse.github.io/rse-stories)
- - [Be on the Show!](https://forms.gle/8NBVQYwTgDs4X7HN7)
+## Who can be on, or host, Developer Stories?
+
+Developer Stories is not geographically limited, meaning that interviewees and hosts
+come from all across the globe, from industry, national labs, and academia! If you
+work on or care about technology, you are part of this community. 
+To request more information to be interviewed, or to host an episode, 
+please see the links below.
+
+ - [View the Site](https://rseng.github.io/devstories)
+ - [What do you build?]()
  - [Host episodes](.github/CONTRIBUTING.md)
 
 ## Transcripts

@@ -5,10 +5,11 @@ author: "@pweschmidt"
 rse: "Paul Richmond"
 excerpt: "Paul Richmond has stepped up to be the new president of the Society for Research Software Engineering in the UK. After years of masquerading as researcher he was finally able to move into a role as RSE. Oh, and watch out for what's hidden in his garden."
 date: 2021-02-25 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2021/rse-stories-paul-richmond-episode-53.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2021/rse-stories-paul-richmond-episode-53.mp3
 length: 14163927
 duration: "00:29:30"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Paul Richmond Twitter
     url: https://twitter.com/gpu_mondus 

@@ -5,10 +5,11 @@ author: "@vsoch"
 rse: "Rowland Mosbergen"
 excerpt: "Rowland has insights about opportunity and inclusion that have potential to change how you think."
 date: "2022-04-07 8:30:00"
-external_media: https://us-rse.org/rse-stories-episodes-1/2022/rowland-mosbergen-episode-72.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2022/rowland-mosbergen-episode-72.mp3
 length: 342294528
 duration: "00:43:25"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Practical Diversity and Inclusion
     url: https://www.practicaldiversity.org

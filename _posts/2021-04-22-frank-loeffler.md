@@ -5,10 +5,11 @@ author: "@pweschmidt"
 rse: "Frank Loeffler"
 excerpt: "Frank Loeffler is one of the founding members of the German RSE association. In this episode he takes us through the process to build a community more or less from scratch."
 date: 2021-04-22 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2021/rse-stories-frank-loeffler-episode-57.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2021/rse-stories-frank-loeffler-episode-57.mp3
 length: 14399447
 duration: "00:29:59"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Frank Loeffer's LinkedIn
     url: https://www.linkedin.com/in/frank-loeffler 

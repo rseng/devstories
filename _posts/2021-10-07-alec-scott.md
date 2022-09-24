@@ -5,10 +5,11 @@ author: "@vsoch"
 rse: "Alec Scott"
 excerpt: "Alec Scott is always building things, and takes his servers with him from home to college."
 date: 2021-10-07 8:00:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2021/rse-stories-alec-scott-episode-66.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2021/rse-stories-alec-scott-episode-66.mp3
 length: 24379845
 duration: "00:43:40"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Alec on GitHub
     url: http://github.com/alecbcs

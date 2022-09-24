@@ -6,10 +6,11 @@ rse: "Rebecca Sutton Koeser"
 excerpt: "The beautiful intersection between digital humanities and computer science."
 date: 2020-01-02 8:30:00
 image: rebecca-sutton-koeser.png
-media: rse-stories-rebecca-sutton-koeser-episode-8.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-rebecca-sutton-koeser-episode-8.mp3
 length: 12580020
 duration: "00:19:35"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Still Speaking in Code, Rebecca's Digital Humanities Origin Story
    url: https://cdh.princeton.edu/updates/2019/08/23/still-speaking-code/

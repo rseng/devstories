@@ -6,10 +6,11 @@ rse: "James Collier & Alexander Botzki"
 phenotype: 
 excerpt: "Have you ever wondered how AI can improve the taste of beer? Look no further than the Flemish Institute for Biotechnology (VIB), where James Collier and Alexander Botzki are working hard to help beer lovers enjoy their drinks even more."
 date: 2020-08-20 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-james-alex-episode30.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-james-alex-episode30.mp3
 length: 10084227
 duration: "00:20:59"
 explicit: "no"
+rse_stories: true
 resources:
  - name: VIB 
    url: https://vib.be

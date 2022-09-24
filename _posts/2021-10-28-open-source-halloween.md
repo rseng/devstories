@@ -5,13 +5,14 @@ author: "@vsoch"
 rse: "@vsoch"
 excerpt: "Lou was excited for his favorite holiday, Halloween, but he couldn't have predicted how an Open Source Halloween would change his life."
 date: 2021-10-28 7:00:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2021/rse-stories-open-source-halloween-2021-episode-67.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2021/rse-stories-open-source-halloween-2021-episode-67.mp3
 length: 37076471
 duration: "00:48:52"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Halloween Episodes Stories (pdf)
-    url: https://us-rse.org/rse-stories/assets/stories/RSE_Stories_Halloween_Special_Episodes.pdf
+    url: https://rseng.github.io/rse-stories/assets/stories/RSE_Stories_Halloween_Special_Episodes.pdf
 --- 
 
 ![{{ site.baseurl }}/assets/img/posts/rse-stories-halloween-2021.jpg]({{ site.baseurl }}/assets/img/posts/rse-stories-halloween-2021.jpg)

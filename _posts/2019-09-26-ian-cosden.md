@@ -6,10 +6,11 @@ rse: "Ian Cosden"
 phenotype: "cosden-rse-phenotype.png"
 excerpt: "For the first episode of RSE Stories, we interview Ian Cosden from Princeton."
 date: 2019-09-26 4:50:00
-media: rse-stories-ian-cosden.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2019/rse-stories-ian-cosden.mp3
 length: 13133947
 duration: "00:19:48"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Ian Cosden on GitHub
    url: https://www.github.com/cosden

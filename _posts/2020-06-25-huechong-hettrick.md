@@ -6,10 +6,11 @@ rse: "Neil Chue Hong and Simon Hettrick"
 phenotype: neilsimon-rse-phenotype.png
 excerpt: "For about 10 years the Software Sustainability Institute in the UK has been the backbone of research software engineering. But how did their work fare during the coronavirus pandemic? And how will research software engineering change in future?"
 date: 2020-06-25 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-huechong-hettrick-episode-22.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-huechong-hettrick-episode-22.mp3
 length: 18840264
 duration: "00:39:15"
 explicit: "no"
+rse_stories: true
 resources:
  - name: The Software Sustainability Institute
    url:  https://www.software.ac.uk

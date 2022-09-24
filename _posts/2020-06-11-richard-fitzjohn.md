@@ -6,10 +6,11 @@ rse: "Richard Fitzjohn"
 phenotype: richfitz-rse-phenotype.png 
 excerpt: "Today from across the pond: How research software engineers help fighting infectious diseases like the coronavirus. What challenges do they face?"
 date: 2020-06-11 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-richard-fitzjohn-episode-20.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-richard-fitzjohn-episode-20.mp3
 length: 12312995
 duration: "00:25:39"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Research Software for Infectious Disease Epidemiology (RESIDE)
    url:  https://reside-ic.github.io

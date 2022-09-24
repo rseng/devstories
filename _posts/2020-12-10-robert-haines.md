@@ -5,10 +5,11 @@ author: "@vsoch"
 rse: "Rob Haines"
 excerpt: "In this episode, we hear a story of how research software engineering came to be."
 date: 2020-12-10 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-robert-haines-episode-45.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-robert-haines-episode-45.mp3
 length: 11953440
 duration: "00:21:20"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Biography
     url: https://www.research.manchester.ac.uk/portal/robert.haines.html

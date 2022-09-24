@@ -5,10 +5,11 @@ author: "@vsoch"
 rse: "Blaise Thompson"
 excerpt: "Research Software Engineers work with hardware too, and we should grow community around it."
 date: 2021-02-04 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2021/rse-stories-blaise-thompson-episode-51.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2021/rse-stories-blaise-thompson-episode-51.mp3
 length: 11783669
 duration: "00:20:07"
 explicit: "no"
+rse_stories: true
 resources:
   - name: bluesky
     url: https://blueskyproject.io/

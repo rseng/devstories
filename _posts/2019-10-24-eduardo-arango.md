@@ -6,11 +6,12 @@ rse: "Eduardo Arango"
 phenotype: "eduardo-arango-rse-phenotype.png"
 excerpt: "Eduardo is a PhD student, HPC assistant admin, and a software engineer for Sylabs."
 date: 2019-10-24 8:30:00
-media: rse-stories-eduardo-arango-episode-3.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2019/rse-stories-eduardo-arango-episode-3.mp3
 image: eduardo-arango.png
 length: 13602155
 duration: "00:20:54"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Eduardo Arango on GitHub
    url: https://github.com/ArangoGutierrez

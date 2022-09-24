@@ -5,10 +5,11 @@ author: "@vsoch"
 rse: "Fernanda Foertter"
 excerpt: "Fernanda isn't sure if it was genetics or fate that led her to high performance computing, but she's come a long way, and is grateful for the journey"
 date: "2022-08-04 8:30:00"
-external_media: https://us-rse.org/rse-stories-episodes-1/2022/rse-stories-fernanda-foertter-episode-76.mp3 
+external_media: https://rseng.github.io/rse-stories-episodes-1/2022/rse-stories-fernanda-foertter-episode-76.mp3 
 length: 24955996
 duration: "00:43:47"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Fernanda's Profile on LinkedIn 
     url: https://www.linkedin.com/in/foertter/

@@ -7,10 +7,11 @@ phenotype: "yarikoptic-rse-phenotype.png"
 excerpt: "Research software engineering for open source neuroscience"
 date: 2019-12-5 8:30:00
 image: yaroslav-halchenko.png
-media: rse-stories-yaroslav-episode-6.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2019/rse-stories-yaroslav-episode-6.mp3
 length: 19660363
 duration: "00:29:59"
 explicit: "no"
+rse_stories: true
 resources:
  - name: NeuroDebian
    url: http://neuro.debian.net/

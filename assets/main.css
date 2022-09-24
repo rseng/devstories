@@ -92,9 +92,8 @@ img::-moz-selection {
 #mainNav {
   position: absolute;
   padding-top: 10px;
-  background-image: url("img/rse-transport-light.png") !important;
   border-bottom: 1px solid #e9ecef;
-  background-color: #e7e7e7 !important;
+  background-color: #32008c;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
   #mainNav .navbar-brand {
     font-weight: 800;
@@ -113,19 +112,19 @@ img::-moz-selection {
   @media only screen and (min-width: 992px) {
     #mainNav {
       border-bottom: 1px solid transparent;
-      background: transparent; }
+      background: #32008c }
       #mainNav .navbar-brand {
         padding-top: 10px;
         padding-bottom: 10px;
-        padding-left: 65px;
+        padding-left: 20px;
         color: white; }
         #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-          color: #a3779d }
+          color: #f7ea00 }
       #mainNav .navbar-nav > li.nav-item > a {
         padding: 10px 20px;
         color: white; }
         #mainNav .navbar-nav > li.nav-item > a:focus, #mainNav .navbar-nav > li.nav-item > a:hover {
-          color: #a3779d; } }
+          color: #f7ea00; } }
   @media only screen and (min-width: 992px) {
     #mainNav {
       -webkit-transition: background-color 0.2s;
@@ -146,7 +145,7 @@ img::-moz-selection {
         -moz-transition: -moz-transform 0.2s;
         transition: transform 0.2s;
         border-bottom: 1px solid white;
-        background-color: #e7e7e7; }
+        background-color: #32008c; }
           #mainNav.is-fixed .navbar-brand:focus, #mainNav.is-fixed .navbar-brand:hover {
             color: #101c5d; }
         #mainNav.is-fixed .navbar-nav > li.nav-item > a {
@@ -238,7 +237,7 @@ header.masthead {
   color: #212529; }
   .post-preview > a:focus, .post-preview > a:hover {
     text-decoration: none;
-    color: #a3779d; }
+    color: #32008c; }
   .post-preview > a > .post-title {
     font-size: 30px;
     margin-top: 30px;
@@ -256,7 +255,7 @@ header.masthead {
     color: #212529; }
     .post-preview > .post-meta > a:focus, .post-preview > .post-meta > a:hover {
       text-decoration: underline;
-      color: #a3779d; }
+      color: #f7ea00; }
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
     font-size: 36px; } }
@@ -344,12 +343,12 @@ footer {
 }
 
 .btn-primary {
-  background-color: #500e3d;
-  border-color: #500e3d; }
+  background-color: #32008c;
+  border-color: #32008c; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     color: #000;
-    background-color: #951169 !important;
-    border-color: #951169 !important; }
+    background-color: #1dc269 !important;
+    border-color: #1dc269 !important; }
 
 .btn-lg {
   font-size: 16px;

@@ -6,10 +6,11 @@ rse: "Brian Hills"
 phenotype: 
 excerpt: "Meet Brian Hills, Deputy CEO and Head of Service Design at the Data Lab in Scotland. After years in the private sector Brian joined Datalab to help bridge the gap in data science between universities and the private sector. Ethics in data plays an important part and success strongly depends on your value set, says Brian."
 date: 2020-11-12 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-brian-hills-episode-42.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-brian-hills-episode-42.mp3
 length: 13651300
 duration: "00:28:27"
 explicit: "no"
+rse_stories: true
 resources:
   - name: The Data Lab
     url: https://www.thedatalab.com

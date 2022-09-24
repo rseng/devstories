@@ -5,10 +5,11 @@ author: "@pweschmidt"
 rse: "Olivia Guest"
 excerpt: "Olivia Guest is a computational cognitive modeler. She is also a prolific publisher and blogger. In this episode we discuss, amongst other things, two of her catchy blog posts."
 date: 2021-01-14 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2021/rse-stories-olivia-guest-episode-48.mp3 
+external_media: https://rseng.github.io/rse-stories-episodes-1/2021/rse-stories-olivia-guest-episode-48.mp3 
 length: 11458477
 duration: "00:23:53"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Olivia's Homepage
     url: https://oliviaguest.com

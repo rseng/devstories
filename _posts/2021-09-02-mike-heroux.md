@@ -5,10 +5,11 @@ author: "@vsoch"
 rse: "Mike Heroux"
 excerpt: "Michael Heroux of Sandia National Laboratories has a rich history with development and leadership for scientific software."
 date: 2021-09-02 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2021/mike-rse-stories-episode-65.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2021/mike-rse-stories-episode-65.mp3
 length: 16431334
 duration: "00:29:08"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Mike's Personal Site
     url: https://maherou.github.io/

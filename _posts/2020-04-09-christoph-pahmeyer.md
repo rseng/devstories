@@ -7,10 +7,11 @@ phenotype: chrispahm-rse-phenotype.png
 excerpt: "How do software and agriculture collide? Christoph gives us a first hand look at what it means to work on and develop for a farm."
 date: 2020-04-09 9:30:00
 image: christoph-pahmeyer.png
-media: rse-stories-christoph-pahmeyer-episode-15.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-christoph-pahmeyer-episode-15.mp3
 length: 13706973
 duration: "00:20:58" 
 explicit: "no"
+rse_stories: true
 resources:
  - name: charts-plugin-dragdata
    url: https://github.com/chrispahm/chartjs-plugin-dragdata

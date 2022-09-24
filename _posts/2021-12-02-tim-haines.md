@@ -5,10 +5,11 @@ author: "@vsoch"
 rse: "@hainest"
 excerpt: "Tim Haines is a quintessential passionate learner, and will tell you all about astrophysics, compilers, and systems."
 date: 2021-12-02 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2021/rse-stories-tim-haines-episode-68.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2021/rse-stories-tim-haines-episode-68.mp3
 length: 23576397
 duration: "00:41:17"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Linkers and Loaders, John R. Levine, Morgan Kauffman, 2000
     url: https://www.amazon.com/Linkers-Kaufmann-Software-Engineering-Programming/dp/1558604960

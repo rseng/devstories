@@ -6,10 +6,11 @@ rse: "Anna Krystalli"
 phenotype: 
 excerpt: "What do plankton surveys, R and reproducibility have in common? In this episode, Anna Krystalli from the University of Sheffield (UK) shares her vast experience and covers areas from macro biology to R programming, community building to making software more open and reproducible."
 date: 2020-09-17 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-anna-krystalli-episode-34.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-anna-krystalli-episode-34.mp3
 length: 12178203
 duration: "00:25:23"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Continuous Plankton Recorder Survey
     url: https://www.cprsurvey.org

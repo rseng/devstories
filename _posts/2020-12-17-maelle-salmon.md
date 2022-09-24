@@ -6,10 +6,11 @@ rse: "Maëlle Salmon"
 phenotype: 
 excerpt: "Maëlle is well known in the R community: from being an associate editor at rOpenSci, the rWeekly blog or community initiatives such as rLadies. She has also an interesting portfolio of projects, including a project to monitor the impact of environmental factors on cardiac disease in India."
 date: 2020-12-17 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-maelle-salmon-episode-46.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-maelle-salmon-episode-46.mp3
 length: 12475790
 duration: "00:25:59"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Maëlle's Twitter
     url: https://twitter.com/ma_salmon

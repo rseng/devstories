@@ -5,10 +5,11 @@ author: "@vsoch"
 rse: "Edd Salkield"
 excerpt: "Edd Salkield is a research software engineer and founder of Dreaming Spires, a research software consultancy bringing together developers and researchers."
 date: 2021-05-06 5:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2021/rse-stories-edd-salkield-episode-59.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2021/rse-stories-edd-salkield-episode-59.mp3
 length: 15891082
 duration: "00:31:47"
 explicit: "no"
+rse_stories: true
 resources:
   - name: "[matrix] chat protocol"
     url: https://en.wikipedia.org/wiki/Matrix_(protocol)

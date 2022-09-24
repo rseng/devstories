@@ -6,10 +6,11 @@ rse: "Nooriyah Lohani"
 phenotype: 
 excerpt: "Let's put RSEs on equal footing with academics and professionals and get them recognised and formal roles, says Nooriyah Lohani from NESI in New Zealand. That requires to reach decision makers. And for that you need to build and foster a strong community first. "
 date: 2020-12-03 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-nooriyah-lohani-episode-44.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-nooriyah-lohani-episode-44.mp3
 length: 12705877
 duration: "00:26:27"
 explicit: "no"
+rse_stories: true
 resources:
   - name: New Zealand eScience Infrastructure
     url: https://www.nesi.org.nz

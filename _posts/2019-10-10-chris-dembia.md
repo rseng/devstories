@@ -6,10 +6,11 @@ rse: "Chris Dembia"
 phenotype: "chris-dembia-rse-phenotype.png"
 excerpt: "For the second episode of RSE Stories, we interview graduate student Chris Dembia from Stanford University."
 date: 2019-10-10 8:30:00
-media: rse-stories-chris-dembia-episode-2.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2019/rse-stories-chris-dembia-episode-2.mp3
 length: 13191685
 duration: "00:20:42"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Chris Dembia on GitHub
    url: https://www.github.com/chrisdembia

@@ -5,10 +5,11 @@ author: "@vsoch"
 rse: "Megan Phinney"
 excerpt: "Megan Phinney brings excitement and energy to the HPC community, and her story started with a cool pen."
 date: "2022-05-05 8:30:00"
-external_media: https://us-rse.org/rse-stories-episodes-1/2022/rse-stories-megan-phinney-episode-73.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2022/rse-stories-megan-phinney-episode-73.mp3
 length: 12225528
 duration: "00:21:34"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Megan's Charliecloud Talk
     url: https://www.lanl.gov/projects/national-security-education-center/information-science-technology/_assets/docs/2020-si-docs/2020-si-project5.pdf

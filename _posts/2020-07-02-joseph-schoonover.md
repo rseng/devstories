@@ -6,10 +6,11 @@ rse: Joseph Schoonover
 phenotype: schoonovernumerics-rse-phenotype.png 
 excerpt: "What prompts a research software engineer to become a CEO?"
 date: 2020-07-02 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-joe-schoonover-episode-23.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-joe-schoonover-episode-23.mp3
 length: 18254525
 duration: "00:25:06"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Scalable and elastic Fluid-Slurm-GCP HPC cluster
    url: https://help.fluidnumerics.com/slurm-gcp

@@ -5,10 +5,11 @@ author: "@vsoch"
 rse: "Kalina Borkiewicz"
 excerpt: "Kalina is a research software engineer that specializes in Scientific Visualization, and combines science, the arts, and technology to make stunning cinematic performances."
 date: 2021-07-08 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2021/rse-stories-kalina-episode-63.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2021/rse-stories-kalina-episode-63.mp3
 length: 17252285
 duration: "00:27:18"
 explicit: "no"
+rse_stories: true
 resources:
   - name: A Beautiful Planet (documentary)
     url: https://www.hulu.com/movie/a-beautiful-planet-012870dc-4c6a-454e-b982-48387cdd7b2b

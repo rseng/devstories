@@ -5,10 +5,11 @@ author: "@vsoch"
 rse: "Daniel Sabanés Bové"
 excerpt: "Daniel's story tells us about research software engineering in biotech."
 date: 2022-06-02 0:00:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2022/rse-stories-daniel-sabanes-bove-episode-75.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2022/rse-stories-daniel-sabanes-bove-episode-75.mp3
 length: 24725511
 duration: "00:31:11"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Daniel on LinkedIn
     url: https://www.linkedin.com/in/danielsabanesbove/

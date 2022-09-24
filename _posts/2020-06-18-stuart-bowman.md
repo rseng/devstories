@@ -5,10 +5,11 @@ author: "@vsoch"
 rse: "Stuart Bowman"
 excerpt: "Solving problems for a safer world"
 date: 2020-06-18 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-stuart-bowman-episode-21.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-stuart-bowman-episode-21.mp3
 length: 12607200
 duration: "00:23:58"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Stuart on GitHub (MITRE)
    url: https://github.com/sbowman-mitre

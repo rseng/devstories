@@ -7,10 +7,11 @@ phenotype: "glemieux-rse-phenotype.png"
 excerpt: "Code for the moon, and even if you stay on the ground, you'll land among the stars."
 date: 2019-12-19 8:30:00
 image: greg-lemieux.png
-media: rse-stories-greg-lemieux-episode-7.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2019/rse-stories-greg-lemieux-episode-7.mp3
 length: 15444637
 duration: "00:25:16"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Greg's work webpage with contact info
    url: https://eesa.lbl.gov/profiles/gregory-lemieux/

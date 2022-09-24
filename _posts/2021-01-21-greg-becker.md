@@ -5,10 +5,11 @@ author: "@vsoch"
 rse: "Greg Becker"
 excerpt: "What does Research Software Engineering mean at a National Lab, and how is rock climbing like programming?"
 date: 2021-01-21 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2021/rse-stories-greg-becker-episode-49.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2021/rse-stories-greg-becker-episode-49.mp3
 length: 17725174
 duration: "00:30:10"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Article on Greg on LLNL
     url: https://computing.llnl.gov/about/our-people/highlights/greg-becker

@@ -6,10 +6,11 @@ rse: "Vanessa Sochat"
 excerpt: "The story of the RSE Stories podcast host, a passionate developer, and avocado loving dinosaur."
 phenotype: "vsoch-rse-phenotype.png"
 date: 2021-06-03 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2021/rse-stories-vanessa-sochat-episode-61.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2021/rse-stories-vanessa-sochat-episode-61.mp3
 length: 18788797
 duration: "00:33:02"
 explicit: "no"
+rse_stories: true
 resources:
   - name: "Vanessa Sochat: Researcher Highlight"
     url: https://computing.llnl.gov/about/people-highlights/vanessa-sochat
@@ -22,11 +23,11 @@ resources:
   - name: "Personal Site"
     url: https://vsoch.github.io
   - name: "The Stanford Reproducibility Engineer"
-    url: https://us-rse.org/rse-roles/role/2016/stanford-reproducibility-engineer/
+    url: https://rseng.github.io/rse-roles/role/2016/stanford-reproducibility-engineer/
 --- 
 
 Have you ever wondered about the story of the host behind this podcast?
-Flipping the interview of the [very first episode](https://us-rse.org/rse-stories/2019/ian-cosden/)
+Flipping the interview of the [very first episode](https://rseng.github.io/rse-stories/2019/ian-cosden/)
 almost two years ago, for this week's episode special guest host Ian Cosden interviews Vanessa Sochat,
 a Computer Scientist at Lawrence Livermore National lab and founder of the RSE Stories podcast. 
 Vanessa started as a researcher in neuroinformatics, fell in love with programming, 

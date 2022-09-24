@@ -6,10 +6,11 @@ rse: "Stephan Druskat"
 phenotype: sdruskat-rse-phenotype.png
 excerpt: "Meet Stephan Druskat, RSE at the Humboldt University in Berlin, Germany. Listen to Stephan explain his exciting work for research in linguistics and his contributions to making software citable."
 date: 2020-07-09 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-stephan-druskat-episode-24.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-stephan-druskat-episode-24.mp3
 length: 19032316
 duration: "00:39:39"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Stephan Druskat
    url: https://sdruskat.net

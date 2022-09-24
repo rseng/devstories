@@ -6,10 +6,11 @@ rse: "Charles Ferenbaugh"
 phenotype: cferenba-rse-phenotype-1.png 
 excerpt: "How far back does research software engineering go?"
 date: 2020-07-16 8:00:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-charles-ferenbaugh-episode-25.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-charles-ferenbaugh-episode-25.mp3
 length: 10537817
 duration: "00:21:32"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Charles on GitHub
    url: https://github.com/cferenba

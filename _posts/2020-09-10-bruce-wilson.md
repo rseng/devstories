@@ -6,10 +6,11 @@ rse: "Bruce Wilson"
 phenotype: 
 excerpt: "Diversity of background, perspective, and taking care of yourself and your team are only a few of the ingredients for resilient teams and tools."
 date: 2020-09-10 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-bruce-wilson-episode-33.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-bruce-wilson-episode-33.mp3
 length: 13081067
 duration: "00:24:37"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Bruce's Biography at ORNL
    url: https://www.ornl.gov/staff-profile/bruce-e-wilson

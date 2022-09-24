@@ -5,10 +5,11 @@ author: "@vsoch"
 rse: "Robin Wilson"
 excerpt: "Robin Wilson is an academic freelancer that tells us a story of strength, and humor."
 date: 2021-08-05 8:00:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2021/rse-stories-robin-wilson-episode-64.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2021/rse-stories-robin-wilson-episode-64.mp3
 length: 19149695
 duration: "00:34:48"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Robin's Personal Site
     url: http://rtwilson.com/academic/index

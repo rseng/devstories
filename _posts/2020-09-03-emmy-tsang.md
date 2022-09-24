@@ -6,10 +6,11 @@ rse: "Emmy Tsang"
 phenotype: 
 excerpt: "How can we move beyond publish or perish in science? Meet Emmy Tsang who is passionate about changing and improving the way we communicate science and make scientific discovery faster, fairer and better."
 date: 2020-09-03 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-emmy-tsang-episode-32.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-emmy-tsang-episode-32.mp3
 length: 13000747
 duration: "00:27:06"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Stencila Hub
    url: https://github.com/stencila/hub

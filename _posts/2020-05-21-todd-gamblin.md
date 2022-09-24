@@ -6,10 +6,11 @@ rse: "Todd Gamblin"
 excerpt: "Package management, or Spack Attack? Listen and decide for yourself!"
 date: 2020-05-21 8:30:00
 image: todd-gamblin.png
-media: rse-stories-todd-gamblin-episode-18.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-todd-gamblin-episode-18.mp3
 length: 13796097
 duration: "00:21:26"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Spack
    url: https://spack.io

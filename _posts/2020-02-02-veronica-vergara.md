@@ -7,10 +7,11 @@ phenotype: "rse-phenotype-veronica.png"
 excerpt: "A story of learning, and following both passions for science and the sunshine."
 date: 2020-02-02 3:30:00
 image: veronica-vergara.png
-media: rse-stories-veronica-vergara-episode-10.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-veronica-vergara-episode-10.mp3
 length: 13478343 
 duration: "00:20:18"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Verónica on Twitter
    url: https://www.twitter.com/verolero86

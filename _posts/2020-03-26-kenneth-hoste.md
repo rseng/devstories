@@ -7,10 +7,11 @@ phenotype: boegel-rse-phenotype.png
 excerpt: "Kenneth Hoste is a passionate HPC admin and RSE that maintains the EasyBuild project."
 date: 2020-03-26 9:30:00
 image: kenneth-hoste.png
-media: rse-stories-kenneth-hoste-episode-14.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-kenneth-hoste-episode-14.mp3
 length: 16385197
 duration: "00:26:56" 
 explicit: "no"
+rse_stories: true
 resources:
  - name: HPC-UGent website
    url: https://www.ugent.be/hpc/en

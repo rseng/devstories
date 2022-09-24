@@ -5,10 +5,11 @@ author: "@vsoch"
 rse: "Daniel Nüst"
 excerpt: "Daniel Nüst is a research software engineer with interest and expertise ranging from reproducibility to geoinformatics. His journey has taken him from industry, to graduate training, to asking fundamental questions about how we do research, and how the process could be changed for the better."
 date: 2021-04-01 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2021/rse-stories-daniel-nuest-episode-56.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2021/rse-stories-daniel-nuest-episode-56.mp3
 length: 21954670
 duration: "00:36:34"
 explicit: "no"
+rse_stories: true
 resources:
   - name: "Daniel's research project: Opening Reproducible Research"
     url: https://o2r.info

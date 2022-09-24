@@ -1,27 +1,26 @@
 # --- General options --- #
 
-baseurl: "/rse-stories"
+baseurl: "/devstories"
 
-title: RSE Stories
-description: Research Software Engineer Stories
+title: devstories
+description: devstories
 author: Vanessa Sochat
 
-twitter:  us_rse
-github_username:  usrse
+twitter:  vsoch
+github_username:  rseng
+form: https://forms.gle/vXtV4orUZYnW2TTa7
 
 # DO NOT EDIT BELOW THIS LINE ##################################################
-
-logo: "assets/img/logo-transparent.svg"
 
 # Podcast Metadata
 itunes_url: "https://podcasts.apple.com/us/podcast/rse-stories/id1481504497"
 podcast:
   owner:
     name: Vanessa Sochat
-    email: vsochat@stanford.edu
+    email: vsoch@users.noreply.github.com
   explicit: "no"
-  image: /assets/img/rse-stories.png # iTunes requires 2,000 pixel art
-  keywords: "research software engineering,rse,rse-stories,software"
+  image: /assets/img/devstories.png # iTunes requires 2,000 pixel art
+  keywords: "developer,technology,build,software engineering,research software engineering,software,rse,rseng,lab"
   categories:
     - category: "Technology"
 

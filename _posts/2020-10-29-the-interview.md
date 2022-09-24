@@ -6,10 +6,11 @@ rse: "Leo"
 phenotype: leo-rse-phenotype.png
 excerpt: "For our second annual Halloween special, we join Leo for the ultimate tech interview."
 date: 2020-10-29 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/halloween-2020-the-interview-episode-40.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/halloween-2020-the-interview-episode-40.mp3
 length: 18681408
 duration: "00:25:55"
 explicit: "no"
+rse_stories: true
 resources:
   - name: The Ultimate Guide for Tech Interviewing 2020 
     url: https://learntocodewith.me/posts/technical-interview/

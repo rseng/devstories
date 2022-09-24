@@ -6,10 +6,11 @@ rse: "Camilla Longden"
 phenotype: 
 excerpt: "Ever wondered how AR can help blind and low vision people? Meet Camilla Longden, RSE at Microsoft, who uses AI and machine learning technologies to help improve their lives."
 date: 2020-07-23 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-camilla-longden-episode-26.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-camilla-longden-episode-26.mp3
 length: 12842340
 duration: "00:26:45"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Camilla Longden
    url: https://twitter.com/camillalongden

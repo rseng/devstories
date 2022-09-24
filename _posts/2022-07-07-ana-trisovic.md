@@ -5,10 +5,11 @@ author: "@vsoch"
 rse: "Ana Trisovic"
 excerpt: "Data engineering is an increasingly important part of research software engineering, and Ana tells us why."
 date: "2022-07-07 8:30:00"
-external_media: https://us-rse.org/rse-stories-episodes-1/2022/rse-stories-anna-trisovic-episode-75.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2022/rse-stories-anna-trisovic-episode-75.mp3
 length: 20193947
 duration: "00:34:01"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Ana's Website
     url: http://anatrisovic.com

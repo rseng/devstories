@@ -6,10 +6,11 @@ rse: "Blake Joyce"
 phenotype: bjoyce3-rse-phenotype.png
 excerpt: "Success for a research team happens at the intersection between system admins, research software engineers, and researchers. No one knows this better than Blake Joyce."
 date: 2020-08-27 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-blake-joyce-episode-31.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-blake-joyce-episode-31.mp3
 length: 10889818
 duration: "00:20:42"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Blake's Biography
    url: https://it.arizona.edu/blake-joyce

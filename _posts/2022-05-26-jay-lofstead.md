@@ -5,10 +5,11 @@ author: "@mmundt"
 rse: "Jay Lofstead"
 excerpt: "Jay Lofstead of Sandia National Laboratories has some big plans for the Inclusivity Committee at Supercomputing 2022."
 date: "2022-05-26 8:30:00"
-external_media: https://raw.githubusercontent.com/USRSE/rse-stories-episodes-1/master/2022/rse-stories-lofstead-mini-series-miranda-1.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/master/2022/rse-stories-lofstead-mini-series-miranda-1.mp3
 length: 16624071
 duration: "00:18:47"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Supercomputing 2022
     url: https://sc22.supercomputing.org/

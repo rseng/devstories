@@ -5,10 +5,11 @@ author: "@pweschmidt"
 rse: "Mark Abraham"
 excerpt: "Meet Mark Abraham from the EuroCC National Competence Centre Sweden and one of the guardians of the Gromacs open source library."
 date: 2021-05-20 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2021/rse-stories-mark-abraham-episode-60.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2021/rse-stories-mark-abraham-episode-60.mp3
 length: 26114426
 duration: "00:27:12"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Mark Abraham at ENCCS
     url: https://enccs.se/people/mark-abraham/

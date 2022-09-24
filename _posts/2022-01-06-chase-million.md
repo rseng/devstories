@@ -5,10 +5,11 @@ author: "@vsoch"
 rse: "Chase Million"
 excerpt: "Chase Million saw a world of work that he wanted to do, but not via a traditional academic route."
 date: 2022-01-06 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2022/rse-stories-chase-million-episode-69.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2022/rse-stories-chase-million-episode-69.mp3
 length: 19480932
 duration: "00:37:25"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Million Concepts Website
     url: https://www.millionconcepts.com/about.html

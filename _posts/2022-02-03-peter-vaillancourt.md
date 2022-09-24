@@ -5,10 +5,11 @@ author: "@vsoch"
 rse: "Peter Vaillancourt"
 excerpt: "In this 70th episode, Computational Scientist Peter Vaillancourt shares what he's learned about diversity and reflects on the challenges our community faces."
 date: 2022-02-03 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2022/rse-stories-peter-vaillancourt-episode-70.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2022/rse-stories-peter-vaillancourt-episode-70.mp3
 length: 19959198
 duration: "00:34:32"
 explicit: "no"
+rse_stories: true
 resources:
   - name: Staff Webpage at the CAC
     url: https://www.cac.cornell.edu/vaillancourt/

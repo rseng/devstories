@@ -6,10 +6,11 @@ rse: "Carol Willing"
 phenotype: carol-willing-rse-phenotype.png
 excerpt: "Crafting computational narratives and answering questions in the real world with grace and Python."
 date: 2020-07-30 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-carol-willing-episode-27.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-carol-willing-episode-27.mp3
 length: 16352637
 duration: "00:32:48"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Carol's Personal Site
    url: https://willing-consulting.com

@@ -7,10 +7,11 @@ phenotype: mrbobbytables-rse-phenotype.png
 excerpt: "Bob Killen talks about a new kind of research software engineer, one that focuses on message based workflows on container clusters."
 date: 2020-04-23 8:30:00
 image: bob-killen.png
-media: rse-stories-bob-killen-episode-16.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-bob-killen-episode-16.mp3
 length: 13475265
 duration: "00:20:46"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Kubernetes Contributor Experience Working Group
    url: http://git.k8s.io/community/sig-contributor-experience

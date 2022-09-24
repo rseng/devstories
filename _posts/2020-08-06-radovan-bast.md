@@ -6,10 +6,11 @@ rse: "Radovan Bast"
 phenotype: "bast-rse-phenotype.png"
 excerpt: "Meet Radovan from Tromsø in Northern Norway, who is building exciting software and teaching students how to be good engineers. He is also busy building and growing the Nordic RSE community with colleagues from Sweden, Finland and other countries."
 date: 2020-08-06 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-radovan-bast-episode-28.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-radovan-bast-episode-28.mp3
 length: 18111970
 duration: "00:37:43"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Radovan Bast Twitter
    url: https://twitter.com/__radovan

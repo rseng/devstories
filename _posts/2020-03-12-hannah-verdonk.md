@@ -7,10 +7,11 @@ phenotype: hverdonk-rse-phenotype.png
 excerpt: "How surprising interests can lead us to being an RSE"
 date: 2020-03-12 9:30:00
 image: hannah-verdonk.png
-media: rse-stories-hannah-verdonk-episode-13.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-hannah-verdonk-episode-13.mp3
 length: 10205006
 duration: "00:15:25"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Hannah on LinkedIn
    url: https://www.linkedin.com/in/hannahverdonk/

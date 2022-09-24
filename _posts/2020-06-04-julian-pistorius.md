@@ -6,10 +6,11 @@ rse: "Julian Pistorius"
 phenotype: julianpistorius-rse-phenotype.png 
 excerpt: "Have you ever thought about what makes good software and communities? Hint: it's a lot of the same as would be needed to tend a garden."
 date: 2020-06-04 8:30:00
-external_media: https://us-rse.org/rse-stories-episodes-1/2020/rse-stories-julian-pistorius-episode-19.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-julian-pistorius-episode-19.mp3
 length: 18577875
 duration: "00:28:15"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Digital Innovations for Agriculture Group (DIAG)
    url: https://datascience.cals.arizona.edu/

@@ -5,7 +5,7 @@ author: "@vsoch"
 excerpt: "It was one year ago today, this tiny podcast made it's debug, here to stay!"
 date: 2020-09-26 8:30:00
 excluded: true
---- 
+---
 
 <h2 class="subheading">{{ page.excerpt }}</h2>
 <style>
@@ -50,7 +50,7 @@ excluded: true
 </style>
 
 Just one year ago today we released the first episode of Research Software Engineer
-Stories with [Ian Cosden](https://us-rse.org/rse-stories/2019/ian-cosden/). The goal
+Stories with [Ian Cosden](https://rseng.github.io/rse-stories/2019/ian-cosden/). The goal
 was simple - to tell the stories of a very diverse set of talented individuals, not quite
 researchers, but not quite software engineers, and going in so many directions beyond that!
 We are amazingly one year in, having recorded, edited, and produced episodes through a pandemic,

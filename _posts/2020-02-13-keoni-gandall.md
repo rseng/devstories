@@ -6,10 +6,11 @@ rse: "Keoni Gandall"
 excerpt: "Designing DNA... only a teardrop away!"
 date: 2020-02-13 9:30:00
 image: keoni-gandall.png
-media: rse-stories-keoni-gandall-episode-11.mp3
+external_media: https://rseng.github.io/rse-stories-episodes-1/2020/rse-stories-keoni-gandall-episode-11.mp3
 length: 14487816
 duration: "00:22:48"
 explicit: "no"
+rse_stories: true
 resources:
  - name: Keoni on Twitter
    url: https://www.twitter.com/koeng101
