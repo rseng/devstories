@@ -19,7 +19,7 @@ podcast:
     name: Vanessa Sochat
     email: vsoch@users.noreply.github.com
   explicit: "no"
-  image: /assets/img/devstories.png # iTunes requires 2,000 pixel art
+  image: /assets/img/logo/devstories.png # iTunes requires 2,000 pixel art
   keywords: "developer,technology,build,software engineering,research software engineering,software,rse,rseng,lab"
   categories:
     - category: "Technology"
