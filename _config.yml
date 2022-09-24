@@ -17,7 +17,7 @@ itunes_url: "https://podcasts.apple.com/us/podcast/devstories/id1481504497"
 podcast:
   owner:
     name: Vanessa Sochat
-    email: vsoch@users.noreply.github.com
+    email: devstories@vsoch.com
   explicit: "no"
   image: /assets/img/logo/devstories.png # iTunes requires 2,000 pixel art
   keywords: "developer,technology,build,software engineering,research software engineering,software,rse,rseng,lab"
