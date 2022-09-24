@@ -1,4 +1,4 @@
-# Developer Stories Podcast
+# Development Stories Podcast
 
 This podcast asks the question:
 
