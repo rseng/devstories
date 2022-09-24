@@ -1,0 +1,16 @@
+name: feed-integrity
+
+on:
+  schedule:
+    # At 2 on Fridays
+    - cron:  '0 2 * * 5'
+
+jobs:
+  formatting:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Check Feed Integiry
+        run: |
+          pip install requests
+          python .github/test_episode_links.py
