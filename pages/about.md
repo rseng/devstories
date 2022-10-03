@@ -17,13 +17,13 @@ permalink: /about/
 
 As developers, we get excited to think about challenging problems. When you ask us what
 we are working on, our eyes light up like children in a candy store. So why is it that
-so many of developer and software origin stories are not told? How did we get
+so many of our developer and software origin stories are not told? How did we get
 to where we are today, and what did we learn along the way? This podcast
 aims to look "Behind the Scenes of Tech's Passion Projects and People." 
 We want to know your developer story, what you have built, and why. 
-We are an inclusive and welcoming community - whatever kind of institution or country you hail
-from, if you are passionate about software and technology you are welcome
-in this community. Our logo is a tree with a single root, which represents
+We are an inclusive community - whatever kind of institution or country you hail
+from, if you are passionate about software and technology you are welcome! 
+Our logo is a tree with a single root, which represents
 a "first commit" or the birth of an idea and subsequent growth and change into
 a developed project, often with twists, turns, and interesting learnings along
 the way.

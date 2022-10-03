@@ -1,11 +1,11 @@
-# Development Stories Podcast
+# Developer Stories Podcast
 
 This podcast asks the question:
 
 > Why did you build it?
 
-And looks "Behind the Scenes of Tech's Passion Projects!" This means we want to know
-what you are building, why you are building it, and who it is for! By way of sharing
+And looks "Behind the Scenes of Tech's Passion Projects and People!" This means we want 
+to know your developer story, and what you are building and why. By way of sharing
 our software and stories, not only can we learn from one another, but we can
 also create greater awareness for all the projects underway, and better collaborate
 on technologies we are excited about.
@@ -19,7 +19,7 @@ To request more information to be interviewed, or to host an episode,
 please see the links below.
 
  - [View the Site](https://rseng.github.io/devstories)
- - [What do you build?]()
+ - [What do you build?](https://forms.gle/vXtV4orUZYnW2TTa7)
  - [Host episodes](.github/CONTRIBUTING.md)
 
 ## Transcripts
