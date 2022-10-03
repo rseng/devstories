@@ -14,7 +14,7 @@ form: true
         <img src="{{ site.baseurl }}/assets/img/people/{{ person.image }}" class="card-img-top" alt="{{ person.name }}" style="object-fit: contain;">{% if person.url %}</a>{% endif %}
         <div class="card-body text-center">
           <h5 class="card-title mb-0">{{ person.name }}</h5>
-          <div class="card-text text-black-50">{% if person.title %}{{ person.title }}{% else %}Research Software Engineer{% endif %}</div>
+          <div class="card-text text-black-50">{% if person.title %}{{ person.title }}{% else %}Software Engineer{% endif %}</div>
         </div>
       </div>
     </div>{% if loopindex == 0 %}</div><div class="row">{% endif %}

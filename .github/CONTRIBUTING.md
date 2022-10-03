@@ -1,6 +1,6 @@
-# Hosting RSE Stories
+# Hosting Developer Stories
 
-So you're interested in hosting one or more episodes of RSE Stories? Fantastic!
+So you're interested in hosting one or more episodes of Developer Stories? Fantastic!
 The podcast is designed so that multiple people, whomever has interest and time,
 can contribute episodes. Here is a starting guide for how to do that.
 
@@ -37,16 +37,16 @@ For example, you might choose a theme of data storage, do research to write
 up (and then record) a brief history, and then add interviews to that. You might
 come up with topics of interest, and write entertaining stories to go along.
 The format and design of your episode is totally up to you, as long as it
-fits in the genre of Research Software Engineering Stories.
+fits in the genre of Developer Stories.
 
 ## 3. Design Your Branding
 
-The branding of RSE Stories is largely set, but as the host you get to run the
+The branding of Developer Stories is largely set, but as the host you get to run the
 show and introduce the content. For example, you might come up with your
-own introductory jingle, and then say something that fits the RSE Stories
-(general) introduction style like "`<jingle>` This is Research Software Engineer 
-Stories, coming straight at you from `<your-location>`. Each episode
-can then open with "Welcome to RSE Stories. I'm `<your-name>` and joining
+own introductory jingle, and then say something that fits the Developer Stories
+(general) introduction style like "`<jingle>` This is Developer
+Stories, coming straight at you from `<your-location>` OR `<podcast-slogan>`. 
+Each episode can then open with "Welcome to Developer Stories. I'm `<your-name>` and joining
 me today..."
 
 ## 4. Find People
@@ -56,7 +56,7 @@ people reach out to you, or connections that are easy to ask to be on the show,
 but other times you need to take a leap and reach out to someone that you don't
 know very well. If someone doesn't respond, don't take it personally. The
 perspective that I like to have is to put myself in the shoes of the average RSE.
-I'm likely very busy, and although I might enjoy listening to RSE Stories, 
+I'm likely very busy, and although I might enjoy listening to Developer Stories, 
 I don't see myself as being "interesting enough" to be featured on the show.
 It's very often the case that our own perspectives about what we do frame us 
 as boring because we are used to it, when in fact an outside listener hearing the
@@ -84,7 +84,7 @@ small variance from that is okay.
 
 ## 7. Add Your Episode
 
-RSE Stories is released every two weeks, and for the time being you can sync with @vsoch
+Developer Stories is released every two weeks, and for the time being you can sync with @vsoch
 to see when a release date would work for you. When you have this date, you'll want
 to prepare a pull request on your local machine to add it. How does that work?
 
@@ -167,7 +167,7 @@ resources:
    url: https://twitter.com/epcced
 ---
 
-In this 17th Episode of Research Software Engineer Stories, we interview
+In this 17th Episode of Developer Stories, we interview
 Andrew Turner, a research software engineer that leads a team at the University
 of Edinburgh, and discuss how research software engineering has brought a sense
 of belonging to so many that did not have it before. Andrew shares his hopes
@@ -185,7 +185,7 @@ not know exists in caving.
  - **media**: should be the mp3 file in assets/episodes
  - **length**: if you do `ls -l` for the file, this is the number of bytes.
  - **duration**: the length in minutes:seconds
- - **explicit**: should always be no - if you record explicit content it's not appropriate for RSE Stories.
+ - **explicit**: should always be no - if you record explicit content it's not appropriate for Developer Stories.
  - **resoures**: one or more links (each with keys for name and url) that you want to include with the post.
 
 
