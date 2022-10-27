@@ -109,5 +109,5 @@ such as LinkedIn, your Facebook, or just direct emails. Your episode is yours,
 and you should be proud of it!
 
 If you have any additional questions, please don't hesitate to 
-[open an issue here](https://github.com/USRSE/rse-stories/issues) or reach out
+[open an issue here](https://github.com/rseng/rse-stories/issues) or reach out
 to a host privately. We are here to help.

@@ -107,7 +107,7 @@ apt-get update && apt-get install -y git
 
 ### Fork the repository
 
-You should obtain a GitHub account and *fork* the <a href="https://github.com/USRSE/rse-stories" target="_blank">rse-stories</a> repository by clicking the *fork* button on the top right of the page. Once forked, you will want to clone the fork of the repo to your computer. Let's say my GitHub username is *meatball*:
+You should obtain a GitHub account and *fork* the <a href="https://github.com/rseng/rse-stories" target="_blank">rse-stories</a> repository by clicking the *fork* button on the top right of the page. Once forked, you will want to clone the fork of the repo to your computer. Let's say my GitHub username is *meatball*:
 
 ```bash
 git clone https://github.com/meatball/rse-stories
