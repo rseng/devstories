@@ -9,7 +9,6 @@ external_media: https://rseng.github.io/devstories-episodes-1/2022/developer-sto
 length: 24729802
 duration: "00:46:23"
 explicit: "no"
-rse_stories: true
 resources:
   - name: The MIT Office of Research Computing and Data
     url: https://orcd.mit.edu
