@@ -111,7 +111,7 @@ For his last technical question he needed to find the shortest path to escape fr
 This first part was straight forward, how do you say it Dijkstra's algorithm? But again, 
 part B threw him off. The interviewer looked up at him with is beady bird eyes, almost grinning.
 How would he change the maze to make it impossible to solve? He wanted to ask in what kind of
-infinte game would you desire such a condition, but he didn't want to come across as judgmental to the
+infinite game would you desire such a condition, but he didn't want to come across as judgmental to the
 interviewer. He started with answers that seemed obvious to him - have an infinite number of paths by 
 connecting edges to other edges with some probability of turning up in a random place. 
 Have the maze generate itself as you go, so it really does never end, or... just seal off the exits? 

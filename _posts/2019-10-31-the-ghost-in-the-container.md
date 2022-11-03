@@ -224,7 +224,7 @@ Dockarod awoke, feeling dizzy and out of place. The surroundings around him were
 as if someone had sucked out any understanding of light and his eyes hungrily sucked at
 the space, hoping for something. Did he even have eyes? Did he have hands?
 He followed a small trickle of light and it led him to a flashing marker.
-It suddently started to violently change, characters flying across the space
+It suddenly started to violently change, characters flying across the space
 and disappearing into some infinite dark sky. What was up might have been down,
 and what was down seemed to always be growing. Oh my god. Was he... no. That's
 entirely crazy. Was he inside of... his terminal?
