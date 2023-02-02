@@ -26,4 +26,5 @@ languages, desserts, and ideas for the future.
 
 This is also a really fun episode because it is the first group interview on the podcast, and between the lines
 of the story is about falling in love with a new type of work, and learning more about the self.
+We also get to hear how Kim is tackling creating one of the first RSEng groups in Africa.
 We hope that you enjoy this episode - happy Februrary listeners!
