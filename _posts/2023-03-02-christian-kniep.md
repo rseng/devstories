@@ -25,7 +25,8 @@ Christian Kniep, who has gone from a small village in Germany to an industry exp
 In this story we hear about life hacks in the Germany army, traveling and being a teacher, making ugly websites (below),
 and landing some impressive roles in tech. Along the way his love for technology and appetite for
 adventure is easy to see, and we champion Christian for his resiliency and bravery in paving new paths.
-We hope you enjoy this episode! 
+We also talk about container technologies, high performance computing, and cloud (and our own fears about
+all of that). We hope you enjoy this episode! 
 
 ![{{ site.baseurl }}/assets/img/posts/christian-kniep-website.png]({{ site.baseurl }}/assets/img/posts/christian-kniep-website.png)
 
