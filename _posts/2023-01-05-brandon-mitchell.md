@@ -18,12 +18,7 @@ resources:
     url: https://www.chainguard.dev/
 ---
 
-Brandon Mitchell is a DevOps Solutions Architect at Boxboat (an IBM company), and can help you across the stack from shell scripting up to cloud orchestration
-and container security. This is an especially exciting episode because we talk about bleeding edge, and relatively uncharted territory -
-container security. Yes, there are companies out there working on this, but it's not yet clear what a reproducible and secure build means for 
-a container. Brandon has some ideas, and not only that, he is a Docker captain and an easy go to person to talk about container standards,
-security, and general usage. In this episode, we talk about good practices for security, reproducible builds, SBOMs, OCI artifacts, and what
-is up-and-coming for container security. It was a pleasure having Brandon on the show and I hope you enjoy the episode!
+Brandon Mitchell is a DevOps Solutions Architect at Boxboat (an IBM company), and can help you across the stack from shell scripting up to cloud orchestration and container security. This is an especially exciting episode because we talk about bleeding edge, and relatively uncharted territory - container security. Yes, there are companies out there working on this, but it's not yet clear what a reproducible and secure build means for a container. Brandon has some ideas, and not only that, he is a Docker captain and an easy go to person to talk about container standards, security, and general usage. In this episode, we talk about good practices for security, reproducible builds, SBOMs, OCI artifacts, and what is up-and-coming for container security. It was a pleasure having Brandon on the show and I hope you enjoy the episode!
 
 ## Learn More?
 
