@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Be the flame, not the moth"
+title: "Be the Flame, not the Moth"
 author: "@vsoch"
 rse: "@tjburns08"
 excerpt: "The realities and joys of moving to Germany to start a Life Sciences Consulting Company."
