@@ -4,7 +4,7 @@ title: "Floppy Disks to Converged Computing"
 author: "@vsoch"
 rse: "@cmisale"
 excerpt: "A journey from the 'Middle Ages' to modern HPC distributed programming and cloud models for computing"
-date: "2023-11-02 0:00:00"
+date: "2023-12-07 0:00:00"
 external_media: https://rseng.github.io/devstories-episodes-2/2023/developer-stories-claudia-misale-episode-92.mp3
 length: 24281678
 duration: "00:48:12"
